@@ -2,3 +2,7 @@
 	path = ctmil/meli_oerp
 	url = https://github.com/ctmil/meli_oerp.git
 	branch = 13.0
+[submodule "sft/sft_complemento_cfdi"]
+	path = sft/sft_complemento_cfdi
+	url = https://github.com/softhink25/sft_complemento_cfdi.git
+	branch = 13.0
