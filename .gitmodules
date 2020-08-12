@@ -1,0 +1,8 @@
+[submodule "sft/sft_autofactura_ent"]
+	path = sft/sft_autofactura_ent
+	url = git@github.com:softhink25/sft_autofactura_ent.git
+	branch = 13.0
+[submodule "sft/sft_complemento_cfdi"]
+	path = sft/sft_complemento_cfdi
+	url = git@github.com:softhink25/sft_complemento_cfdi.git
+	branch = 13.0
